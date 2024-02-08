@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4b1fa9b-10c1-4227-bad0-d924ffe6d566" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/AlbumDetails.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Albums.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AllPosts.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PhotoSearch.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Photos.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserProfile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserSearch.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/UserContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/appModels.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/HomePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/LoginPage/LoginPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/AppService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2c4d5XSLYNHfejaGjV5QChyexye" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/maciej-opozda/Pulpit/projects/maciek-app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/home/maciej-opozda/Pulpit/projects/maciek-app/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4b1fa9b-10c1-4227-bad0-d924ffe6d566" name="Changes" comment="" />
+      <created>1707374601970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707374601970</updated>
+      <workItem from="1707374603105" duration="9625000" />
+      <workItem from="1707394505488" duration="2000" />
+      <workItem from="1707395232338" duration="545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="workin 1" />
+    <MESSAGE value="workin 2" />
+    <MESSAGE value="workin 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="workin 3" />
+  </component>
+</project>

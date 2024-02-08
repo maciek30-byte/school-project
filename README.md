@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React App ala 'Facebook'
+Initial assumptions of the application:
+
+1. The logged-in user is the user with id: 5
+2. Limit on requests is set to 25 so as not to overload resources
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
